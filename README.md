@@ -2,6 +2,8 @@
 
 A top-down snooker game for the browser. Ball physics run on **Matter.js** and rendering on **p5.js**.
 
+**▶ [Play online](https://ziadelh.github.io/snooker-game/)**
+
 <p>
   <img src="docs/aim.png" alt="Aiming the cue from the D zone" width="49%">
   <img src="docs/break.png" alt="Break shot scattering the reds" width="49%">
@@ -36,7 +38,7 @@ JavaScript · p5.js · p5.sound · Matter.js
 
 ## Run
 
-Open `index.html` with the VS Code **Live Server** extension.
+Play it [online](https://ziadelh.github.io/snooker-game/), or run it locally by opening `index.html` with the VS Code **Live Server** extension.
 
 ## Author
 
